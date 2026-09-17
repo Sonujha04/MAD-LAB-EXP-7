@@ -887,3 +887,9 @@ recyclerView.adapter = PlaceAdapter(samplePlaces) { selectedPlace ->
 5.  **Verifying Widescreen Dual-Pane Flow:**
     * Rotate the running mobile emulator into **Landscape** mode (`Ctrl + F11`), or deploy it directly on an **Android Tablet Grid**.
     * The UI morphs into a dual-pane view layout structure. Tapping any item now updates the right panel in real time without navigating away from the current screen.
+## screenshots 
+<img width="357" height="798" alt="Screenshot 2026-09-17 104900" src="https://github.com/user-attachments/assets/266ee762-9deb-45d0-a4d7-c889a5b675a1" />
+<img width="361" height="785" alt="Screenshot 2026-09-17 104915" src="https://github.com/user-attachments/assets/c2ac649c-7932-40b7-a7e1-98c30dc05172" />
+<img width="351" height="783" alt="Screenshot 2026-09-17 104930" src="https://github.com/user-attachments/assets/1c3eb5fb-c8f4-4525-8ef7-192aa7bba33e" />
+
+
